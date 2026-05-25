@@ -1,4 +1,4 @@
-import java.util.*;
+// 2644. Find the Maximum Divisibility Scoreimport java.util.*;
 class Maximum_Divisibility_Score {
     public int maxDivScore(int[] nums, int[] divisors) {
         int x = nums.length;
